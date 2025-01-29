@@ -1,5 +1,5 @@
 # Tableau
 
-This repository contains some of my assignments for the Data Visualization subject, as well as various Tableau projects I've worked on for fun. The projects explore different datasets and visualization techniques to enhance data storytelling and insights.
+This repository contains some of my assignments for the Data Visualization subject, along with various Tableau projects I've worked on for fun. Here, you will find the datasets I have worked on, and you can also try opening my Tableau files in your own Tableau software to explore them.
 
-Feel free to check them out and provide feedback! 🚀
+These are fun and interactive Tableau projects - feel free to check them out and experiment with the visualizations! 🚀
